@@ -1,5 +1,5 @@
 # Python_Scripting
-Some of my python scrips
+Some of my python scripts
 
 # Function Realizer
 
