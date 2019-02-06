@@ -18,6 +18,10 @@ This program is used to visualize the output of each layer by using a test image
 This is just a 4 line of code for text to voice converter using microsoft assistant. The minimum requirement is windows 10 operating system with python installed in it. Here, we will just use the Cortana for the purpose of text to voice conversion. The minimum package requirement is win32com. If u don't have this package, install it by using simple native pip.
   
       pip install win32
+      
+# RAW File Deleter (Phototgraphy NEEDS): Deleting Unwamted RAW file after sorting out the jpg images in a folder.
+
+This program is usefull for those who do phototgraphy especially those who take images in RAW+JPEG mode. RAW file is collection of unprocessed data, which has all the details of camera and images. Raw files are useful for those who do post processing in their image. RAW files consumes lots of memory. we often sort and select best images while scrolling through the JPG files. we will delete the bad JPG images. But often we forgot to delete the RAW file respective to that JPG file. Again finding the deleted JPG file and delete the respective RAW file is tedious process. So this script is all about deleting the unwanted/deleted JPG's RAW file.
     
     
     
